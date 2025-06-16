@@ -1,23 +1,15 @@
 # Hospital-Management-System
 
-# Reg No:212224040144
-# Name:JUDE TARUN
-# Date:19.05.2025
+# Reg No:212224240123
+# Name: RAGUL K R
+
 
 
 # AIM:
 To develop the Hospital Management System using Star UML.
 
 # Problem Statement:
-1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
 
-2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
-
-3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
-
-4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
-
-5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 
 UML DIAGRAMS
 
@@ -29,6 +21,8 @@ UML is the modeling toolkit that you can use to build your diagrams. Use cases a
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
 # UML use case diagrams are ideal for:
+Hospitals often deal with a vast amount of information, including patient records, staff data, inventory of medicines, room availability, billing, appointments, and more. Managing these processes manually or with outdated systems can lead to errors, inefficiencies, data loss, and delays, which ultimately affect patient care and operational costs.
+
 
 Representing the goals of system-user interactions
 
